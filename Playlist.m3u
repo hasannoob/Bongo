@@ -189,13 +189,7 @@ http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
 http://172.20.3.1:81/StarSports2HD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
-http://172.20.3.1:81/StarSportsSel1HD/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
-http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",PTV Sports
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",BEIN Sports
+
 http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",EURO Sports
 #EXTINF:-1 ,RTA Sports
