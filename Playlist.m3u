@@ -176,21 +176,5 @@ https://rumble.com/live-hls/6z456e/playlist.m3u8
 http://66.102.120.18:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 1
-http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 2
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 3
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 3
-http://172.20.3.1:81/SonySportsTen3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
-http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
-http://172.20.3.1:81/StarSports2HD/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
-
-http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",EURO Sports
 #EXTINF:-1 ,RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
